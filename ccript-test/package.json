@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "moment": "^2.29.4",
+    "next": "latest",
     "react": "latest",
+    "react-big-calendar": "^1.8.4",
     "react-dom": "latest",
-    "next": "latest"
+    "react-icons": "^4.11.0"
   },
   "devDependencies": {
     "autoprefixer": "latest",
